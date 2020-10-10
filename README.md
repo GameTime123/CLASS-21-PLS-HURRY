@@ -1,1 +1,2 @@
-# CLASS-21-PLS-HURRY
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
